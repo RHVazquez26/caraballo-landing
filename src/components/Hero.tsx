@@ -53,7 +53,7 @@ export default function Hero() {
                 <div className="flex -space-x-2">
                   {[1,2,3,4].map(i => (
                     <div key={i} className="h-8 w-8 rounded-full border-2 border-white bg-slate-200 overflow-hidden">
-                      <img src={`https://i.pravatar.cc/150?u=${i}`} alt="Client" />
+                      <img src={`https://i.pravatar.cc/150?u=${i}`} alt="Client" loading="lazy" />
                     </div>
                   ))}
                 </div>
