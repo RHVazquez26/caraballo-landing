@@ -34,7 +34,7 @@ export default function Hero() {
               Reparación de Appliances en <span className="text-primary italic">Miami</span> - ¡Llegamos hoy mismo!
             </h1>
             <p className="text-xl text-slate-600 mb-8 leading-relaxed">
-              Servicio técnico experto para sus equipos de línea blanca. Reparamos refrigeradores, lavadoras y secadoras con garantía certificada en todo <span className="font-bold text-secondary">Miami-Dade y Broward</span>.
+              Servicio técnico experto en reparación de electrodomésticos en Miami. Reparamos refrigeradores, lavadoras y secadoras con garantía certificada en todo <span className="font-bold text-secondary">Miami-Dade y Broward</span>.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 mb-10">
